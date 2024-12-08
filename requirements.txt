@@ -1,2 +1,3 @@
 matplotlib==3.7.1
-streamlit==X.X.X
+streamlit==1.12.2
+
